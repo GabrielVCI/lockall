@@ -86,7 +86,7 @@ export default function Contact() {
               Contacto Corporativo
             </h1>
             <p className="text-[17px] leading-relaxed text-lockall-graphite max-w-[600px]">
-              Complete el formulario a continuación y un especialista de nuestro equipo se pondrá en contacto para evaluar cómo LOCKALL puede integrarse con su operación.
+              Complete el formulario a continuación y un especialista de nuestro equipo se pondrá en contacto para evaluar cómo las soluciones de LOCKALL pueden integrarse con su operación.
             </p>
           </div>
         </div>

@@ -13,7 +13,7 @@ const steps = [
     title: "Integración y Configuración",
     subtitle: "Despliegue adaptado a su infraestructura",
     description:
-      "El proceso inicia con la integración de LOCKALL en su ecosistema tecnológico existente. Nuestro equipo de ingeniería trabaja directamente con su departamento de TI para configurar la conexión API, establecer las políticas de protección y definir los flujos de trabajo automatizados.",
+      "El proceso inicia con la integración de las soluciones de LOCKALL en su ecosistema tecnológico existente. Nuestro equipo de ingeniería trabaja directamente con su departamento de TI para configurar la conexión API, establecer las políticas de protección y definir los flujos de trabajo automatizados.",
     details: [
       "Integración API con su sistema de gestión de cartera",
       "Configuración de políticas de protección personalizadas",
@@ -27,7 +27,7 @@ const steps = [
     title: "Activación en Dispositivos",
     subtitle: "Protección desde el primer día de financiamiento",
     description:
-      "Una vez integrada la plataforma, cada dispositivo financiado se registra automáticamente en el sistema LOCKALL. El mecanismo de protección se activa de forma transparente durante el proceso de configuración inicial del dispositivo, sin afectar la experiencia del usuario final.",
+      "Una vez integradas las soluciones, cada dispositivo financiado se registra automáticamente. El mecanismo de protección se activa de forma transparente durante el proceso de configuración inicial del dispositivo, sin afectar la experiencia del usuario final.",
     details: [
       "Registro automático al momento del financiamiento",
       "Activación transparente para el usuario final",
@@ -77,7 +77,7 @@ export default function HowItWorks() {
               Proceso
             </span>
             <h1 className="font-display font-bold text-[clamp(2.5rem,5vw,3.25rem)] leading-[1.05] tracking-tight text-lockall-navy mb-6">
-              Cómo Funciona LOCKALL
+              Cómo Funcionan Nuestras Soluciones
             </h1>
             <p className="text-[17px] leading-relaxed text-lockall-graphite max-w-[600px]">
               Un proceso estructurado en cuatro fases que garantiza una implementación eficiente y resultados medibles desde las primeras semanas de operación.

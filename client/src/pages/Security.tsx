@@ -25,7 +25,7 @@ const securityFeatures = [
   {
     icon: Lock,
     title: "Cifrado de extremo a extremo",
-    desc: "Toda la comunicación entre la plataforma central y los dispositivos protegidos utiliza cifrado AES-256 con intercambio de claves mediante protocolo Diffie-Hellman.",
+    desc: "Toda la comunicación entre los servidores centrales y los dispositivos protegidos utiliza cifrado AES-256 con intercambio de claves mediante protocolo Diffie-Hellman.",
   },
   {
     icon: Server,
@@ -101,7 +101,7 @@ export default function Security() {
               Seguridad Empresarial y Cumplimiento Normativo
             </h1>
             <p className="text-[17px] leading-relaxed text-lockall-graphite max-w-[600px]">
-              La seguridad y el cumplimiento regulatorio son pilares fundamentales de nuestra operación. Cada componente de la plataforma LOCKALL ha sido diseñado con estos principios como requisitos no negociables.
+              La seguridad y el cumplimiento regulatorio son pilares fundamentales de nuestra operación. Cada componente de las soluciones que ofrecemos ha sido diseñado con estos principios como requisitos no negociables.
             </p>
           </div>
         </div>
@@ -119,7 +119,7 @@ export default function Security() {
                 Seguridad Empresarial
               </h2>
               <p className="text-[16px] leading-relaxed text-lockall-graphite">
-                Nuestra infraestructura de seguridad ha sido diseñada para cumplir con los estándares más exigentes del sector financiero. Cada capa de protección opera de forma independiente, creando un sistema de defensa en profundidad.
+                Las soluciones de LOCKALL han sido diseñadas para cumplir con los estándares más exigentes del sector financiero. Cada capa de protección opera de forma independiente, conformando una estrategia de defensa en profundidad.
               </p>
             </div>
           </SectionReveal>
