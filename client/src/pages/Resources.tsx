@@ -12,7 +12,7 @@ const resources = [
   {
     icon: FileText,
     type: "Resumen Ejecutivo",
-    title: "LOCKALL: Plataforma de Mitigación de Riesgo",
+    title: "LOCKALL: Soluciones de Mitigación de Riesgo",
     description: "Documento de alto nivel que presenta la propuesta de valor de LOCKALL, casos de uso principales y métricas de impacto para comités ejecutivos.",
     format: "PDF",
     pages: "12 páginas",
@@ -21,7 +21,7 @@ const resources = [
     icon: BookOpen,
     type: "Documento Técnico",
     title: "Arquitectura de Seguridad de 6 Capas",
-    description: "Descripción técnica detallada de la arquitectura de seguridad de LOCKALL, incluyendo protocolos de cifrado, mecanismos de protección y estándares de cumplimiento.",
+    description: "Descripción técnica detallada de la arquitectura de seguridad integrada en las soluciones de LOCKALL, incluyendo protocolos de cifrado, mecanismos de protección y estándares de cumplimiento.",
     format: "PDF",
     pages: "28 páginas",
   },

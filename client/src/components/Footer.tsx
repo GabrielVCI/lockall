@@ -15,7 +15,7 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <img src={ASSETS.logo} alt="LOCKALL" className="h-8 w-auto mb-5" />
             <p className="text-[14px] leading-relaxed text-white/50 max-w-[280px]">
-              Infraestructura tecnológica avanzada para la mitigación de riesgo en el financiamiento de dispositivos.
+              Soluciones avanzadas de mitigación de riesgo en el financiamiento de dispositivos.
             </p>
           </div>
 
@@ -91,7 +91,7 @@ export default function Footer() {
             © {new Date().getFullYear()} LOCKALL. Todos los derechos reservados.
           </p>
           <div className="flex items-center gap-1 text-[12px] text-white/30 font-heading">
-            <span>Infraestructura global de protección financiera</span>
+            <span>Soluciones globales de protección financiera</span>
             <ArrowUpRight size={12} />
           </div>
         </div>

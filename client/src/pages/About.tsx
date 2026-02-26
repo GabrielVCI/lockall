@@ -38,7 +38,7 @@ export default function About() {
               Sobre LOCKALL
             </h1>
             <p className="text-[17px] leading-relaxed text-lockall-graphite max-w-[600px]">
-              Una empresa multinacional dedicada a proporcionar infraestructura tecnológica de mitigación de riesgo para el sector financiero.
+              Una empresa multinacional dedicada a ofrecer soluciones de mitigación de riesgo para el sector financiero, respaldadas por tecnología especializada.
             </p>
           </div>
         </div>
@@ -64,10 +64,10 @@ export default function About() {
                   Infraestructura Global para la Protección de Activos Financiados
                 </h2>
                 <p className="text-[16px] leading-relaxed text-lockall-graphite mb-5">
-                  LOCKALL nació de la identificación de una necesidad estructural en el mercado financiero: la ausencia de herramientas tecnológicas especializadas para mitigar el riesgo inherente al financiamiento de dispositivos tecnológicos. Lo que comenzó como una solución técnica se ha convertido en una infraestructura integral que opera en más de 45 países.
+                  LOCKALL nació de la identificación de una necesidad real en el mercado financiero: la falta de soluciones especializadas para mitigar el riesgo en el financiamiento de dispositivos tecnológicos. Lo que comenzó como una iniciativa enfocada se ha convertido en una operación con presencia en más de 45 países.
                 </p>
                 <p className="text-[16px] leading-relaxed text-lockall-graphite mb-5">
-                  Nuestra plataforma procesa millones de transacciones diarias, proporcionando a bancos, instituciones financieras y retailers las herramientas necesarias para proteger sus carteras de financiamiento de dispositivos de manera eficiente y conforme a la regulación local.
+                  A través de las soluciones que ofrecemos, se procesan millones de transacciones diarias, proporcionando a bancos, instituciones financieras y retailers las herramientas necesarias para proteger sus carteras de financiamiento de dispositivos de manera eficiente y conforme a la regulación local.
                 </p>
                 <p className="text-[16px] leading-relaxed text-lockall-graphite">
                   Con equipos distribuidos en América Latina, Europa, Asia y África, mantenemos una operación continua que combina experiencia técnica con conocimiento regulatorio profundo en cada mercado donde operamos.
@@ -109,12 +109,12 @@ export default function About() {
               {
                 icon: Target,
                 title: "Misión",
-                text: "Proporcionar a las instituciones financieras la infraestructura tecnológica más avanzada para la mitigación de riesgo en el financiamiento de dispositivos, contribuyendo a la expansión responsable del crédito tecnológico.",
+                text: "Proporcionar a las instituciones financieras las soluciones más avanzadas de mitigación de riesgo en el financiamiento de dispositivos, contribuyendo a la expansión responsable del crédito tecnológico.",
               },
               {
                 icon: Eye,
                 title: "Visión",
-                text: "Ser el estándar global de referencia en protección de activos tecnológicos financiados, reconocido por las principales instituciones financieras como un componente esencial de su infraestructura de gestión de riesgo.",
+                text: "Ser el referente global en protección de activos tecnológicos financiados, reconocido por las principales instituciones financieras como un aliado estratégico esencial en su gestión de riesgo.",
               },
               {
                 icon: Compass,

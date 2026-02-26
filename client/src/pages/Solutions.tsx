@@ -32,13 +32,13 @@ function PageHero() {
       <div className="container">
         <div className="max-w-[720px]">
           <span className="text-[12px] font-heading font-semibold tracking-widest uppercase text-lockall-cyan mb-4 block">
-            Plataforma
+            Nuestras Soluciones
           </span>
           <h1 className="font-display font-bold text-[clamp(2.5rem,5vw,3.25rem)] leading-[1.05] tracking-tight text-lockall-navy mb-6">
             Soluciones de Protección Financiera de Nivel Empresarial
           </h1>
           <p className="text-[17px] leading-relaxed text-lockall-graphite max-w-[600px]">
-            Tres productos integrados que cubren el ciclo completo de protección de activos financiados: desde la prevención hasta la inteligencia predictiva.
+            Tres soluciones integradas que cubren el ciclo completo de protección de activos financiados: desde la prevención hasta la inteligencia predictiva.
           </p>
         </div>
       </div>
@@ -107,7 +107,7 @@ export default function Solutions() {
         tagColor="text-lockall-cyan"
         name="LOCKALL Shield™"
         subtitle="Protección integral a nivel de dispositivo"
-        description="LOCKALL Shield™ es la capa fundamental de protección que se integra directamente con el dispositivo financiado. Opera de forma silenciosa y transparente para el usuario final, activándose únicamente cuando las condiciones de la cuenta lo requieren."
+        description="LOCKALL Shield™ es nuestra solución de protección fundamental. Integra tecnología especializada directamente en el dispositivo financiado, operando de forma silenciosa y transparente para el usuario final, activándose únicamente cuando las condiciones de la cuenta lo requieren."
         capabilities={[
           { icon: Shield, title: "Protección persistente", desc: "Mecanismo de protección que permanece activo incluso después de un restablecimiento de fábrica o cambio de SIM." },
           { icon: Fingerprint, title: "Identificación única", desc: "Cada dispositivo recibe un identificador criptográfico único vinculado a la cuenta de financiamiento." },
@@ -123,7 +123,7 @@ export default function Solutions() {
         tagColor="text-lockall-orange"
         name="LOCKALL Control™"
         subtitle="Centro de operaciones para la gestión de cartera"
-        description="LOCKALL Control™ proporciona a las instituciones financieras un panel de control centralizado para gestionar toda su cartera de dispositivos protegidos. Desde la activación inicial hasta la resolución de cuentas, cada acción queda registrada y auditable."
+        description="LOCKALL Control™ pone a disposición de las instituciones financieras un panel de control centralizado para gestionar toda su cartera de dispositivos protegidos. Desde la activación inicial hasta la resolución de cuentas, cada acción queda registrada y auditable."
         capabilities={[
           { icon: Radio, title: "Comunicación en tiempo real", desc: "Canal cifrado de comunicación bidireccional con cada dispositivo de la cartera." },
           { icon: Zap, title: "Ejecución inmediata", desc: "Comandos de protección que se ejecutan en segundos, independientemente de la ubicación del dispositivo." },
@@ -140,7 +140,7 @@ export default function Solutions() {
         tagColor="text-lockall-cyan"
         name="LOCKALL Insight™"
         subtitle="Inteligencia predictiva para la toma de decisiones"
-        description="LOCKALL Insight™ transforma los datos operativos en inteligencia accionable. Mediante modelos de machine learning y análisis de patrones de comportamiento, proporciona a los equipos de riesgo las herramientas necesarias para anticipar y prevenir pérdidas."
+        description="LOCKALL Insight™ convierte los datos operativos en inteligencia accionable. Mediante modelos de machine learning y análisis de patrones de comportamiento, brinda a los equipos de riesgo las herramientas necesarias para anticipar y prevenir pérdidas."
         capabilities={[
           { icon: BarChart3, title: "Dashboard ejecutivo", desc: "Visualización en tiempo real del estado de la cartera con métricas clave de rendimiento y riesgo." },
           { icon: TrendingUp, title: "Predicción de riesgo", desc: "Modelos predictivos que identifican cuentas con alta probabilidad de incumplimiento antes de que ocurra." },

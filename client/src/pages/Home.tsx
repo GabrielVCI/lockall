@@ -89,7 +89,7 @@ function HeroSection() {
             }`}
             style={{ transitionDelay: "500ms" }}
           >
-            La Solución Más Avanzada para la{" "}
+            Soluciones Avanzadas de{" "}
             <span className="text-lockall-cyan">Mitigación de Riesgo</span> en
             Financiamiento de Dispositivos
           </h1>
@@ -103,8 +103,8 @@ function HeroSection() {
             }`}
             style={{ transitionDelay: "700ms" }}
           >
-            Proteja teléfonos móviles y electrodomésticos financiados mediante
-            una infraestructura tecnológica avanzada, diseñada específicamente
+            Proteja teléfonos móviles y electrodomésticos financiados con
+            soluciones respaldadas por tecnología de clase mundial, diseñadas
             para instituciones financieras.
           </p>
 
@@ -289,22 +289,22 @@ function SolutionSection() {
                 Un Nuevo Estándar en Protección de Activos Digitales Financiados
               </h2>
               <p className="text-[16px] leading-relaxed text-lockall-graphite mb-6">
-                LOCKALL ha desarrollado una plataforma integral de mitigación de
-                riesgo que opera a nivel de dispositivo, proporcionando a las
-                instituciones financieras un mecanismo de protección sin
-                precedentes sobre los activos tecnológicos que financian.
+                LOCKALL ofrece soluciones de mitigación de riesgo que operan
+                a nivel de dispositivo, proporcionando a las instituciones
+                financieras un mecanismo de protección sin precedentes sobre
+                los activos tecnológicos que financian.
               </p>
               <p className="text-[16px] leading-relaxed text-lockall-graphite mb-8">
-                Nuestra infraestructura combina seguridad a nivel de hardware,
-                inteligencia de datos y cumplimiento regulatorio en una solución
+                Nuestras soluciones combinan seguridad a nivel de hardware,
+                inteligencia de datos y cumplimiento regulatorio en una oferta
                 unificada que se integra directamente con los sistemas de gestión
                 de cartera existentes.
               </p>
 
               <div className="p-5 bg-lockall-pearl rounded border border-border">
                 <p className="text-[15px] font-heading font-semibold text-lockall-navy">
-                  No vendemos software. Ofrecemos soluciones estratégicas de
-                  protección financiera.
+                  No somos un sistema. Somos el aliado estratégico que
+                  protege su cartera de financiamiento.
                 </p>
               </div>
 
@@ -357,7 +357,7 @@ function SecurityLayersSection() {
     {
       icon: Radio,
       title: "Transmisión Segura de Comandos",
-      desc: "Canal de comunicación cifrado de extremo a extremo entre la plataforma central y cada dispositivo, con autenticación multifactor y protocolos de redundancia.",
+      desc: "Canal de comunicación cifrado de extremo a extremo entre los servidores centrales y cada dispositivo, con autenticación multifactor y protocolos de redundancia.",
     },
     {
       icon: Brain,
@@ -397,9 +397,9 @@ function SecurityLayersSection() {
               6 Capas de Protección Integradas
             </h2>
             <p className="text-[16px] leading-relaxed text-white/60">
-              Cada capa opera de forma independiente y complementaria, creando un
-              sistema de defensa en profundidad que protege los activos
-              financiados desde múltiples vectores.
+              Cada capa opera de forma independiente y complementaria,
+              conformando una estrategia de defensa en profundidad que protege
+              los activos financiados desde múltiples vectores.
             </p>
           </div>
         </SectionReveal>
@@ -455,7 +455,7 @@ function WhoWeServeSection() {
     {
       icon: Wallet,
       title: "Programas BNPL",
-      desc: "Plataformas de compra ahora, paga después que requieren infraestructura de protección para dispositivos financiados.",
+      desc: "Plataformas de compra ahora, paga después que requieren soluciones de protección para dispositivos financiados.",
     },
   ];
 
@@ -523,9 +523,10 @@ function GlobalReachSection() {
                 Infraestructura Global, Cumplimiento Local
               </h2>
               <p className="text-[16px] leading-relaxed text-lockall-graphite mb-6">
-                LOCKALL opera en más de 45 países, con infraestructura
-                distribuida que garantiza baja latencia y alta disponibilidad.
-                Nuestra plataforma se adapta a los marcos regulatorios de cada
+                LOCKALL tiene presencia en más de 45 países, con soluciones
+                respaldadas por infraestructura distribuida que garantiza baja
+                latencia y alta disponibilidad. Nos adaptamos a los marcos
+                regulatorios de cada
                 jurisdicción, asegurando cumplimiento normativo sin comprometer
                 la eficiencia operativa.
               </p>
@@ -582,7 +583,7 @@ function VideoCTASection() {
               Conozca LOCKALL
             </span>
             <h2 className="font-display font-bold text-[clamp(2rem,4vw,2.75rem)] leading-[1.1] tracking-tight text-lockall-navy mb-5">
-              Vea Nuestra Plataforma en Acción
+              Vea Nuestras Soluciones en Acción
             </h2>
           </div>
         </SectionReveal>
@@ -615,7 +616,8 @@ function FinalCTASection() {
           </h2>
           <p className="text-[16px] text-white/80 max-w-[520px] mx-auto mb-8">
             Agende una demostración privada con nuestro equipo de especialistas
-            en riesgo y conozca cómo LOCKALL puede integrarse con su operación.
+            y conozca cómo las soluciones de LOCKALL pueden integrarse con
+            su operación.
           </p>
           <div className="flex flex-wrap items-center justify-center gap-4">
             <Link
