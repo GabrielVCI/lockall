@@ -42,7 +42,7 @@ export default function Navbar() {
           <img
             src={ASSETS.logo}
             alt="LOCKALL"
-            className="h-9 w-auto"
+            className="h-30 w-auto"
           />
         </Link>
 

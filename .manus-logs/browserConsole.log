@@ -2,3 +2,71 @@
 [2026-02-24T03:28:02.436Z] {"timestamp":1771903680553,"level":"DEBUG","args":["[vite] connected."],"stack":null}
 [2026-02-24T03:28:02.436Z] {"timestamp":1771903680907,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
 [2026-02-24T03:28:09.940Z] {"timestamp":1771901688091,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-26T02:38:47.240Z] {"timestamp":1772073525236,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-26T02:38:47.240Z] {"timestamp":1772073525282,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-26T02:38:47.240Z] {"timestamp":1772073526370,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-26T02:47:39.514Z] {"timestamp":1772074057501,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-26T02:47:39.514Z] {"timestamp":1772074057515,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-26T02:47:39.514Z] {"timestamp":1772074057594,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-26T02:48:01.542Z] {"timestamp":1772074081155,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-02-26T02:48:01.542Z] {"timestamp":1772074081155,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-02-26T02:48:01.542Z] {"timestamp":1772074081164,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-02-26T02:48:01.542Z] {"timestamp":1772074081164,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-02-26T02:48:01.543Z] {"timestamp":1772074081158,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-02-26T02:48:01.543Z] {"timestamp":1772074081158,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-02-26T02:48:01.543Z] {"timestamp":1772074081208,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-02-26T02:48:01.543Z] {"timestamp":1772074081208,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T16:57:05.623Z] {"timestamp":1772384223621,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-03-01T16:57:05.623Z] {"timestamp":1772384223649,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-03-01T16:57:05.623Z] {"timestamp":1772384224142,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-03-01T18:35:02.332Z] {"timestamp":1772390100030,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:35:02.332Z] {"timestamp":1772390100031,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-03-01T18:35:02.332Z] {"timestamp":1772390100031,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-03-01T18:35:02.332Z] {"timestamp":1772390100031,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:35:02.332Z] {"timestamp":1772390100031,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Footer.tsx"],"stack":null}
+[2026-03-01T18:35:08.978Z] {"timestamp":1772390108046,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:35:08.978Z] {"timestamp":1772390108047,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-03-01T18:35:08.978Z] {"timestamp":1772390108047,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-03-01T18:35:08.978Z] {"timestamp":1772390108047,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:35:08.978Z] {"timestamp":1772390108047,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Footer.tsx"],"stack":null}
+[2026-03-01T18:35:14.987Z] {"timestamp":1772390113179,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:35:14.987Z] {"timestamp":1772390113180,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-03-01T18:35:14.987Z] {"timestamp":1772390113180,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-03-01T18:35:14.987Z] {"timestamp":1772390113180,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:35:14.987Z] {"timestamp":1772390113180,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Footer.tsx"],"stack":null}
+[2026-03-01T18:35:18.090Z] {"timestamp":1772390115826,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-03-01T18:35:18.090Z] {"timestamp":1772390115829,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-03-01T18:35:18.090Z] {"timestamp":1772390115865,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-03-01T18:35:23.837Z] {"timestamp":1772390123173,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:35:23.837Z] {"timestamp":1772390123173,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-03-01T18:35:23.837Z] {"timestamp":1772390123173,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-03-01T18:35:23.837Z] {"timestamp":1772390123173,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:35:23.837Z] {"timestamp":1772390123173,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Footer.tsx"],"stack":null}
+[2026-03-01T18:36:01.828Z] {"timestamp":1772390161165,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:36:01.828Z] {"timestamp":1772390161165,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-03-01T18:36:01.828Z] {"timestamp":1772390161166,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-03-01T18:36:01.828Z] {"timestamp":1772390161166,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:36:01.828Z] {"timestamp":1772390161166,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Footer.tsx"],"stack":null}
+[2026-03-01T18:36:30.072Z] {"timestamp":1772390189609,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:36:30.072Z] {"timestamp":1772390189609,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:36:37.899Z] {"timestamp":1772390197499,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:36:37.899Z] {"timestamp":1772390197499,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:37:39.828Z] {"timestamp":1772390258578,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:37:39.828Z] {"timestamp":1772390258579,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Footer.tsx"],"stack":null}
+[2026-03-01T18:39:53.694Z] {"timestamp":1772390363175,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:39:53.694Z] {"timestamp":1772390363175,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-03-01T18:39:53.694Z] {"timestamp":1772390363176,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-03-01T18:39:53.694Z] {"timestamp":1772390363176,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:39:53.695Z] {"timestamp":1772390363176,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Footer.tsx"],"stack":null}
+[2026-03-01T18:39:53.695Z] {"timestamp":1772390392679,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:39:53.695Z] {"timestamp":1772390392679,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-03-01T18:39:53.695Z] {"timestamp":1772390392679,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-03-01T18:39:53.695Z] {"timestamp":1772390392679,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:39:53.695Z] {"timestamp":1772390392679,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Footer.tsx"],"stack":null}
+[2026-03-01T18:40:17.828Z] {"timestamp":1772390416831,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-03-01T18:40:17.828Z] {"timestamp":1772390416831,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-03-01T18:40:17.828Z] {"timestamp":1772390416831,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
+[2026-03-01T18:40:17.828Z] {"timestamp":1772390416831,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Navbar.tsx"],"stack":null}
+[2026-03-01T18:40:17.828Z] {"timestamp":1772390416831,"level":"DEBUG","args":["[vite]","hot updated: /src/components/Footer.tsx"],"stack":null}
+[2026-03-01T18:41:48.088Z] {"timestamp":1772390506993,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/About.tsx"],"stack":null}
+[2026-03-01T18:41:48.088Z] {"timestamp":1772390506993,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}

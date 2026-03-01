@@ -13,7 +13,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <img src={ASSETS.logo} alt="LOCKALL" className="h-8 w-auto mb-5" />
+            <img src={ASSETS.logo} alt="LOCKALL" className="h-30 w-auto mb-5" />
             <p className="text-[14px] leading-relaxed text-white/50 max-w-[280px]">
               Soluciones avanzadas de mitigación de riesgo en el financiamiento de dispositivos.
             </p>
